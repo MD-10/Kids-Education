@@ -1,0 +1,43 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\BusinessLayer\BusinessLayer\bin\Debug\Data.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\BusinessLayer\BusinessLayer\bin\Debug\Data.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\2-8-2019\Projet\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\2-8-2019\Projet\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\2-8-2019\Projet\BusinessLayer\BusinessLayer\bin\Debug\Data.dll
+E:\2-8-2019\Projet\BusinessLayer\BusinessLayer\bin\Debug\Data.pdb
+E:\2-8-2019\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\2-8-2019\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\2-8-2019\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\2-8-2019\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\2-8-2019\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\final\Projet\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\final\Projet\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\final\Projet\BusinessLayer\BusinessLayer\bin\Debug\Data.dll
+C:\Users\user\Desktop\final\Projet\BusinessLayer\BusinessLayer\bin\Debug\Data.pdb
+C:\Users\user\Desktop\final\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\final\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\final\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\user\Desktop\final\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\final\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\new\Projet\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\new\Projet\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\new\Projet\BusinessLayer\BusinessLayer\bin\Debug\Data.dll
+C:\Users\user\Desktop\new\Projet\BusinessLayer\BusinessLayer\bin\Debug\Data.pdb
+C:\Users\user\Desktop\new\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\new\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\new\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\new1\Projet\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\new1\Projet\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\new1\Projet\BusinessLayer\BusinessLayer\bin\Debug\Data.dll
+C:\Users\user\Desktop\new1\Projet\BusinessLayer\BusinessLayer\bin\Debug\Data.pdb
+C:\Users\user\Desktop\new1\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\new1\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\new1\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\user\Desktop\new1\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\new1\Projet\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb

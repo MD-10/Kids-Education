@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<projet>
+  <maths>
+  <symbol>
+    <div>÷</div>
+  </symbol>
+  <addition>
+
+    <lvl>1</lvl>
+
+    <a>3,4,5</a>
+
+    <b>1,2,3</b>
+
+    <c>0</c>
+
+  </addition>
+
+  <addition>
+
+    <lvl>2</lvl>
+
+    <a>6,7,8,9</a>
+
+    <b> 1,2,3,4</b>
+
+    <c>0</c>
+
+  </addition>
+
+  <addition>
+
+    <lvl>3</lvl>
+
+    <a>5,6,7,8,9</a>
+
+    <b>1,2,3,4,5</b>
+
+    <c>1,2,3,4,5,6,7,8,9</c>
+
+  </addition>
+
+  <addition>
+
+    <lvl>4</lvl>
+
+    <a>12,14,15,16,17,18</a>
+
+    <b>5,6,7,8,9,10,11</b>
+
+    <c>1,2,3,4,5,6,7,8,9</c>
+
+  </addition>
+
+  <soustraction>
+
+    <lvl>1</lvl>
+
+    <a>3,4,5</a>
+
+    <b>1,2,3</b>
+
+    <c>0</c>
+
+  </soustraction>
+
+  <soustraction>
+
+    <lvl>2</lvl>
+
+    <a>6,7,8,9</a>
+
+    <b> 1,2,3,4</b>
+
+    <c>0</c>
+
+  </soustraction>
+
+  <soustraction>
+
+    <lvl>3</lvl>
+
+    <a>5,6,7,8,9</a>
+
+    <b>1,2,3,4,5</b>
+
+    <c>1,2,3,4,5,6,7,8</c>
+
+  </soustraction>
+
+  <soustraction>
+
+    <lvl>4</lvl>
+
+    <a>12,14,15,16,17,18</a>
+
+    <b>5,6,7,8,9,10,11</b>
+
+    <c>1,2,3,4,5,6,7,8,9</c>
+
+  </soustraction>
+
+  <multiplication>
+
+    <lvl>1</lvl>
+
+    <a>3,4,5</a>
+
+    <b>1,2,3</b>
+
+    <c>0</c>
+
+  </multiplication>
+
+  <multiplication>
+
+    <lvl>2</lvl>
+
+    <a>6,7,8,9</a>
+
+    <b>1,2,3,4</b>
+
+    <c>0</c>
+
+  </multiplication>
+
+  <multiplication>
+
+    <lvl>3</lvl>
+
+    <a>3,4,5</a>
+
+    <b>1,2,3</b>
+
+    <c>1,2,3,4,5</c>
+
+  </multiplication>
+
+  <multiplication>
+
+    <lvl>4</lvl>
+
+    <a>3,4,5</a>
+
+    <b>1,2,3</b>
+
+    <c>5,6,7,8,9</c>
+
+  </multiplication>
+
+  <division>
+
+    <lvl>1</lvl>
+
+    <a>2,4,6,8,10,12.3,6,9,12,15,18.4,8,12,16,20,24.5,10,15,20,25,30</a>
+
+    <b>2,3,4,5</b>
+
+  </division>
+
+  <division>
+
+    <lvl>2</lvl>
+
+    <a>14,16,18,20.21,24,27,30.28,32,36,40.35,40,45,50</a>
+
+    <b>2,3,4,5</b>
+
+  </division>
+
+  <division>
+
+    <lvl>3</lvl>
+
+    <a>6,12,18,24,30,36.7,14,21,28,35,42.8,16,24,32,40,48.9,18,27,36,45,54</a>
+
+    <b>6,7,8,9</b>
+
+  </division>
+
+  <division>
+
+    <lvl>4</lvl>
+
+    <a>42,48,54,60,66,72.49,56,63,70,77,84.56,64,72,80,88,96.63,72,81,90,99,108</a>
+
+    <b>6,7,8,9</b>
+
+  </division>
+
+  <Priorite>
+
+    <lvl>1</lvl>
+
+    <expression>(2+3)x2,4+1x5,10÷2+3x2,(3+4)x3,3+3x6,12÷3+3x4,10x(7-4),2+3x8,(8+2)x5,6x7+8</expression>
+
+    <etapes>5x2,10.4+5,9.5+6,11.7x3,21.3+18,21.4+3x4,4+12,16.10x3,30.2+24,26.10x5,50.42+8,50</etapes>
+
+    <reponse>10,9,11,21,21,16,30,26,50,50</reponse>
+
+  </Priorite>
+
+  <Priorite>
+
+    <lvl>2</lvl>
+
+    <expression>5^2 + 10 x 2,(6 - 5)^2 x 4,3 + 10^2 ÷ 5,(3 + 2^3) x 4,4^2 ÷ (9+7),4^2 - 8 ÷ 2,10 x (3 - 2)^3,(5 + 2^2) x 3,10 ÷ 2 + 5^2</expression>
+
+    <etapes>25+10x2,25+20,45.1^2 x4,1x4,4.3+100÷5,3+20,23.(3+8)x4,11x4,44.16÷(9+7),16÷16,1.16 -8 ÷ 2,16 - 4,12.10 x (1)^3,10 x 1,10.(5 + 4) x 3,(9) x 3,27.10 ÷ 2 + 25,5 + 25,30</etapes>
+
+    <reponse>45,4,23,44,1,12,10,27,30</reponse>
+
+  </Priorite>
+
+
+  <Priorite>
+
+    <lvl>3</lvl>
+
+    <expression>(4^2 - 5 + 10) ÷ 7,(3^2 - 9) ÷ 8 + 10,( 9 × 8 + 2^2 ) ÷ 4,3^3 × (6 + 2 - 8),(10 - 4)^2 ÷ 9 + 6,( 8^2 - 7 × 4 ) ÷ 3,( 4^3 ÷ (2 + 6) ) × 8,2 x ( 3^3 - 5 + 8 ),( 4 + 5 - 2^3 ) x 8,9 x ( 8 - 2^3 + 7 )</expression>
+
+    <etapes>(16 - 5 + 10) ÷ 7,(11 + 10) ÷ 7,21 ÷ 7,3.(3^2 - 9) ÷ 8 + 10,(9 - 9) ÷ 8 + 10,0 ÷ 8 + 10,0 + 10,10.(9 × 8 + 4) ÷ 4 ,(72 + 4) ÷ 4 ,76 ÷ 4 ,19.3^3 × (8 - 8) ,3^3 × 0 ,27 × 0 ,0. 6^2 ÷ 9 + 6 ,36 ÷ 9 + 6 ,4 + 6 ,10.(64 - 7 × 4) ÷ 3 ,(64 - 28) ÷ 3 ,36 ÷ 3 ,12. ( 4^3 ÷ 8 ) × 8 ,(64 ÷ 8) × 8, 8 × 8 ,64. 2 × (27 - 5 + 8) ,2 × (22 + 8) ,2 × 30 ,60. (4 + 5 - 8) × 8 ,(9 - 8) × 8 ,1 × 8,8. 9 × (8 - 8 + 7) ,9 × (0 + 7), 9 × 7 ,63</etapes>
+
+    <reponse>3,10,19,0,10,12,64,60,8,63</reponse>
+
+  </Priorite>
+
+
+  <Priorite>
+
+    <lvl>4</lvl>
+
+    <expression>(7 x 8) ÷ (3 + 9 - 10)^3, ( 6 + 10 – 2^2 ) x 8 ÷ 3, ( 8 + 3^2 ÷ 9 - 6 ) x 7, (6 ÷ 3)^3 x 9 + 5 – 4, ( 5 x (3 + 9 - 8)^2 ) ÷ 10, 8 + 3^2 - 4 x (6 ÷ 2), ( 3^2 ÷ 9 ) x (7 + 10 - 4), ( 5 ÷ (8 + 3 - 10)^2 ) x 2</expression>
+
+    <etapes>56 ÷ (3 + 9 - 10)^3 ,56 ÷ (12 - 10)^3 ,56 ÷ 2^3 ,56 ÷ 8 ,7. (6 + 10 - 4) x 8 ÷ 3 ,(16 - 4) x 8 ÷ 3 ,12 x 8 ÷ 3 ,96 ÷ 3 ,32. (8 + 9 ÷ 9 - 6) x 7 ,(8 + 1 - 6) x 7 ,(9 - 6) x 7 ,3 x 7 ,21.2^3 x 9 + 5 - 4 ,8 x 9 + 5 - 4 ,72 + 5 - 4 ,77 - 4 ,73. ( 5 x (12 - 8)^2 ) ÷ 10 ,( 5 x 4^2 ) ÷ 10 ,(5 x 16) ÷ 10 ,80 ÷ 10 ,8. 8 + 3^2 - 4 x 3 ,8 + 9 - 4 x 3 ,8 + 9 - 12 ,17 - 12 ,5. (9 ÷ 9) x (7 + 10 - 4) ,1 x (7 + 10 - 4) ,1 x (17 - 4) ,1 x 13 ,13. ( 5 ÷ (11 - 10)^2 ) x 2 ,( 5 ÷ 1^2 ) x 2 ,(5 ÷ 1) x 2 ,5 x 2 ,10</etapes>
+
+    <reponse>7,32,21,73,8,5,13,10</reponse>
+
+  </Priorite>
+<heure>11-00.jpg,10-05.jpg, 9-10.jpg, 8-15.jpg, 7-20.jpg, 6-25.jpg,11-55.jpg,12-50.jpg, 1-45.jpg, 2-40.jpg, 3-35.jpg, 5-30.jpg</heure>
+<chiffre>zéro,un,deux,trois,quatre,cinq,six,sept,huit,neuf,dix,onze,douze,treize,quatorze,quinze,seize,dix-sept,dix-huit,dix-neuf,vingt,vingt-et-un,vingt-deux,vingt-trois,vingt-quatre,vingt-cinq,vingt-six,vingt-sept,vingt-huit,vingt-neuf,trente,trente-et-un,trente-deux,trente-trois,trente-quatre,trente-cinq,trente-six,trente-sept,trente-huit,trente-neuf,quarante,quarante-et-un,quarante-deux,quarante-trois,quarante-quatre,quarante-cinq,quarante-six,quarante-sept,quarante-huit,quarante-neuf,cinquante,cinquante-et-un,cinquante-deux,cinquante-trois,cinquante-quatre,cinquante-cinq,cinquante-six,cinquante-sept,cinquante-huit,cinquante-neuf,soixante,soixante-et-un,soixante-deux,soixante-trois ,soixante-quatre,soixante-cinq,soixante-six,soixante-sept,soixante-huit,soixante-neuf,soixante-dix,soixante-et-onze,soixante-douze,soixante-treize,soixante-quatorze,soixante-quinze,soixante-seize,soixante-dix-sept,soixante-dix-huit,soixante-dix-neuf,quatre-vingts,quatre-vingt-un,quatre-vingt-deux,quatre-vingt-trois,quatre-vingt-quatre,quatre-vingt-cinq,quatre-vingt-six,quatre-vingt-sept,quatre-vingt-huit,quatre-vingt-neuf,quatre-vingt-dix,quatre-vingt-onze ,quatre-vingt-douze,quatre-vingt-treize,quatre-vingt-quatorze,quatre-vingt-quinze,quatre-vingt-seize,quatre-vingt-dix-sep,quatre-vingt-dix-huit,quatre-vingt-dix-neuf,cent</chiffre>
+</maths>
+  <frs>
+    <confusion>
+      <b>sablier,bouteille,arbre,table,ballon,bouche,biberon,banane,bateau,hibou</b>
+      <p>pantalon,poulet,patate,piscine,pipe,parapluie,poire,pomme,sapin,poisson</p>
+      <v>vache,voiture,valise,réveil,avion,volcan,vase,cheval,caravane,cravate</v>
+      <f>girafe,feu,fraise,fleur,feuille,fenêtre,réfrigérateur</f>
+      <d>dinaosaure,rideau,cadeau,dents,dragon,douche,salade</d>
+      <t>citron,citrouille,voiture,étoile,moto,marteau,autruche,artichaut,porte,trésor,montre</t>
+      <g>bougie,singe,rouge,fromage,orange,nuage,bourgeon</g>
+      <ch>niche,bouche,vache,cloche,chaussettes,cheval,chapeau,ruche,chien,cloche,château</ch>
+      <C>colle,cadeau,café,coeur,cloche,sucre,camion,carotte,cartable</C>
+      <G>grue,gâteau,kangourou,légo,guitare,grenouille,pingouin,cigarette,gants,tigre,glace</G>
+      <q>quille,coquille,briquet,quatre,phoque</q>
+    </confusion>
+    
+    
+    
+    
+  </frs>
+</projet>
